@@ -3,7 +3,7 @@
 ## function can be time-intensive for large matrices.
 ## Check my functions for the assignment here without fuss or explanation.
 ## Beneath the functions, I walk through the code step-by-step
-## If I explain something incorrecty or strangely, please comment!
+## If I explain something incorrectly or strangely, please comment!
 makeCacheMatrix <- function(x = matrix()) { 
      i <- NULL
      set <- function(y) {
